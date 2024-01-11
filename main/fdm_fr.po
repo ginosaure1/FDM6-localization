@@ -10,7 +10,7 @@ msgstr ""
 
 msgctxt "AboutDialog|"
 msgid "About"
-msgstr "A propos"
+msgstr "À propos"
 
 msgctxt "AboutDialog|"
 msgid "Version: %1 (%2)"
